@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1638817823 source:c:\users\preme\desktop\laboratorium2_pg\main.cpp
+	<iostream>
+	"Developer.h"
+	"Employee.h"
+	"TeamLeader.h"
+	"Bufor.h"
+	"MaxBufor.h"
+	"MeanBufor.h"
+
+1638747199 c:\users\preme\desktop\laboratorium2_pg\include\developer.h
+	"Employee.h"
+
+1638747277 c:\users\preme\desktop\laboratorium2_pg\include\employee.h
+	<iostream>
+
+1638747861 c:\users\preme\desktop\laboratorium2_pg\include\teamleader.h
+	"Employee.h"
+
+1638745750 source:c:\users\preme\desktop\laboratorium2_pg\src\developer.cpp
+	"Developer.h"
+
+1638747826 source:c:\users\preme\desktop\laboratorium2_pg\src\teamleader.cpp
+	"TeamLeader.h"
+
+1638748033 source:c:\users\preme\desktop\laboratorium2_pg\src\employee.cpp
+	"Employee.h"
+
+1638817276 source:c:\users\preme\desktop\laboratorium2_pg\src\bufor.cpp
+	"Bufor.h"
+
+1638813041 c:\users\preme\desktop\laboratorium2_pg\include\bufor.h
+	<iostream>
+
+1638815283 c:\users\preme\desktop\laboratorium2_pg\include\maxbufor.h
+	"Bufor.h"
+
+1638815268 c:\users\preme\desktop\laboratorium2_pg\include\meanbufor.h
+	"Bufor.h"
+	<iostream>
+
+1638816108 source:c:\users\preme\desktop\laboratorium2_pg\src\meanbufor.cpp
+	"MeanBufor.h"
+
+1638817940 source:c:\users\preme\desktop\laboratorium2_pg\src\maxbufor.cpp
+	"MaxBufor.h"
+
